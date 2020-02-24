@@ -122,7 +122,7 @@ the steppers.
 #### Using XY Endstops (Single or Dual)
 
 ##### Option 1
-Set the origin in you CAM to be the location of the endstops. Then put your material in the right
+Set the origin in your CAM to be the location of the endstops. Then put your material in the right
 place relative to your machine. The Z needs to be set separately.
 
 ##### Option 2
